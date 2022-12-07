@@ -15,6 +15,8 @@
 
 ### **Skills and Proficiency:**
 
-***I have some skills in C#, ***
-***good knoledge in T-SQL, ***
+***I have some skills in C#,***
+
+***good knoledge in T-SQL,***
+
 ***and a few in Kotlin.***
